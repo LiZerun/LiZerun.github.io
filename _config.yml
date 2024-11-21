@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zerun Li
+title                    : "Zerun Li"
 title_separator          : "-"
 name                     : &name "Zerun Li"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "github.jpg"
   name             : "Zerun Li"
-  pronouns         : "her"
+  pronouns         : # "he/his"
   bio              : "A fifth-year Ph.D. student in Computer Architecture"
   location         : "China"
   employer         : "ICT, CAS"
